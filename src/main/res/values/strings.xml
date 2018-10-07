@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Celebrity</string>
+    <string name="waiting_for_players">Waiting for players...</string>
+    <string name="im_ready">I\'m ready!</string>
+</resources>
